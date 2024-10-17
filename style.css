@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+}
+
+img {
+  width: 300px;
+  max-width: 600px;
+  margin: 10px;
+}
+
+header {
+  background: #98405d;
+  color: #fff;
+  padding: 8px 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+  margin: 15px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 65px;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: rgba(238, 227, 231, 0.32);
+}
+h2 {
+  color: rgb(119, 47, 71);
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #98405d;
+  color: #fff;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.header {
+  background-image: url("A close up of pink garden roses flowers pattern with rain drops.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  color: rgb(86, 11, 45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: palatino;
+}
